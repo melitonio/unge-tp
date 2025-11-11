@@ -1,3 +1,7 @@
+# pip install pandas
+# pip install matplotlib
+# pip install seaborn
+
 import random
 import time
 from dataclasses import dataclass
